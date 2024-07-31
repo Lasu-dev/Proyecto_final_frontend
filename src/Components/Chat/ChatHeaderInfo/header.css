@@ -1,0 +1,95 @@
+.header {   
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #075e54;
+    border-radius: 5px;
+  }
+  .header-conversacion {
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+  }
+  
+  .header-title {
+    color: #ffffff;
+    flex-grow: 1;
+    font-size: 1.5rem;
+  }
+  
+  .header-icons {
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    /* margin-left: 10px; */
+    /* font-size: 1.5rem; */
+    cursor: pointer;
+  }
+
+  .camara-icon{
+    font-size: 1.3rem;
+  }
+  
+  .magnifyGlass{
+    gap: 10px;
+    
+  }
+
+  .header-icons {
+    gap: 10px;
+  }
+  @media (max-width: 600px) {
+    .header {
+      flex-direction: column;
+      align-items: flex-start;
+
+    }
+  
+    .header-title {
+      margin-bottom: 10px;
+    }
+} 
+
+
+/* .input-search{
+  animation-duration: 3s;
+  animation-direction: normal;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-top: 20%;
+    height: 50%;
+  }
+
+  to {
+    margin-top: 0%;
+    height: 100%;
+  }
+} */
+
+.imagen-contactos{
+  padding-left: 5px;
+}
+.img-ultimaconexion{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+} 
+.iconos{
+  color: #ffffff;
+  size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 15px;
+  margin-right: 10px;
+}

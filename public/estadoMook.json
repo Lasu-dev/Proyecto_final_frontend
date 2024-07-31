@@ -1,0 +1,39 @@
+[
+    {
+        "autor": "yo",
+        "estado": "./LisaChicle1.png",
+        "description":"Cuando parecía que iba a ser un día tranquilo..😒", 
+        "hora": "13:12"
+
+    },
+    {
+        "autor": "Homer",
+        "estado": "./puerco-araña.jpg",
+        "description":"puerco araña, puerco araña 🎶🎶 al mal ataca con su telaraña, su colita retorcida🎶 da besitos con su tompita. Miraaaaa!!! es el puerco arañaaaaaa🎶🎶",
+        "hora": "hace 38 minutos"
+    },
+    {
+        "autor": "Jeff Albertson",
+        "estado":"./estado-jeff.jpeg",
+        "hora": "hace 50 minutos"
+
+    },
+    {
+        "autor": "Patty Bouvier",
+        "estado":"./paty-selma.jpeg",
+        "description":"Nuestras mágicas vacaciones en Egipto😎 tenemos cientos de fotos y videos para compartir.",
+        "hora": "hace 1 hora"
+    },
+    {
+        "autor": "Selma Bouvier",
+        "estado":"./paty-selma.jpeg",
+        "description":"Nuestras mágicas vacaciones en Egipto😎 tenemos cientos de fotos y videos para compartir.",
+        "hora": "hace 1 hora"
+    },
+    {
+        "autor": "Seymour Skinner",
+        "estado":"./soldado.jpeg",
+        "description":"Recuerdos de Vietnam.", 
+        "hora": "12:55"
+    }
+]

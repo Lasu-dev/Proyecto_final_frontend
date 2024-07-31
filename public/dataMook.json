@@ -1,0 +1,362 @@
+[
+    {
+        "id": 100,
+        "imagenContacto": "./nedFlander.jpg",
+        "chatAuthor": "Ned Flanders",
+        "ultimaConexion": "últ. vez  a las 13:37",
+        "mensajes": [
+            {
+                "author": "Ned Flanders",
+                "text": "Margie Simpson, ¿haciendo jugo en la forma tradicional?🍹🍊",
+                "estado": "",
+                "day": "",
+                "hour": "13:15",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "yo",
+                "text": "No, Lisa tiene goma de mascar en el cabello.🤦‍♀️",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:16",
+                "id": "2",
+                "isState": false
+            },
+            {
+                "author": "yo",
+                "text": " Ya probamos de todo: aceite de oliva, limón, salsa tártara, chocolate fundido, grasa de tocino, moho y babaganush",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:17",
+                "id": "3",
+                "isState": false
+            }, 
+            {
+                "author": "Ned Flanders",
+                "text": "Congélelo con un cubo de hielo y dele con un martillo, eso hago yo con mi bigotirijillo.",
+                "estado": "",
+                "day": "",
+                "hour": "13:18",
+                "id": "4",
+                "isState": false
+            },
+            {
+                "author": "yo",
+                "text": "./LisaPeor.jpg",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:35",
+                "id": "5",
+                "isState": false
+            }, 
+            {
+                "author": "Ned Flanders",
+                "text": "Hum, parece que se incrustó mas goma de mascar en el cabello.",
+                "estado": "",
+                "day": "",
+                "hour": "13:36",
+                "id": "6",
+                "isState": false
+            },
+            {
+                "author": "yo",
+                "text": "Mmmmmmmmmmm",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:37",
+                "id": "7",
+                "isState": false
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "imagenContacto": "./WillyElEscoces.webp",
+        "chatAuthor": "William McDougal",
+        "ultimaConexion": "últ. vez  a las 13:20",
+        "mensajes": [
+            {
+                "author": "William McDougal",
+                "text": "Disculpirijillas, inútil si es goma de mascar.",
+                "estado": "",
+                "day": "",
+                "hour": "13:18",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "yo",
+                "text": "Gracias Willy, eso no fue de mucha ayuda.",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:19",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "imagenContacto": "./capitanHoratioMcCallister.jpeg",
+        "chatAuthor": "Capitan Horatio McCallister",
+        "ultimaConexion": "últ. vez  a las 13:19",
+        "mensajes": [
+            {
+                "author": "Capitan Horatio McCallister",
+                "text": "Has probado con calamar del Báltico?. ",
+                "estado": "",
+                "day": "",
+                "hour": "13:16",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "Capitan Horatio McCallister",
+                "text": "Pueden chupar los remaches del casco de un submarino!!!.",
+                "estado": "",
+                "day": "",
+                "hour": "13:16",
+                "id": "2"
+            },
+            {
+                "author": "yo",
+                "text": "No, no, no. Si llegara a conseguir calamar del Baltico aquí en Springfield, estaría fuera de mi presupuesto.",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:18",
+                "id": "3"
+            },
+            {
+                "author": "yo",
+                "text": "Muchas gracias Capitan.",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:18",
+                "id": "4"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "imagenContacto": "./otto.jpg",
+        "chatAuthor": "Otto Mann",
+        "ultimaConexion": "en linea",
+        "mensajes": [
+            {
+                "author": "Otto Mann",
+                "text": "VIENTOS HURACANADOS!! la revista 'engendros' me va a dar una buena pasta por esto!!. ",
+                "estado": "",
+                "day": "",
+                "hour": "13:15",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "yo",
+                "text": "NO OTTO NOOO!!!!",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:15",
+                "id": "2"
+            },
+            {
+                "author": "yo",
+                "text": " Por favor no publiques en esa asquerosa revista la imagen de mi Lisa.",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:16",
+                "id": "3"
+            },
+            {
+                "author": "Otto Mann",
+                "text": "¡Relájese, Sra. Simpson! No lo voy a hacer, sólo estaba bromeando. Además, Lisa es una niña genial. ¡Viva Led Zeppelin!",
+                "estado": "",
+                "day": "",
+                "hour": "13:18",
+                "id": "4"
+            },
+            {
+                "author": "Otto Mann",
+                "text": "./Otto.roqueando.jpg",
+                "estado": "",
+                "day": "",
+                "hour": "13:18",
+                "id": "5"
+            }        
+        ]
+    },
+    {
+        "id": 104,
+        "imagenContacto": "./Dr.Gibbert.webp",
+        "chatAuthor": "Dr. Julius Gibbert",
+        "ultimaConexion": "en linea",
+        "mensajes": [
+            {
+                "author": "Dr. Julius Gibbert",
+                "text": "Puedo recomendarles un gomademascarólogo. ",
+                "estado": "",
+                "day": "",
+                "hour": "13:18",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "Dr. Julius Gibbert",
+                "text": "hem hem hem hem",
+                "estado": "",
+                "day": "",
+                "hour": "13:18",
+                "id": "2"
+            },
+            {
+                "author": "yo",
+                "text": "Mmmmmmmmmmm",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:20",
+                "id": "3"
+            }
+        ]    
+    },
+    {
+        "id": 105,
+        "imagenContacto": "./MelPatiño.jpg",
+        "chatAuthor": "Melvin Van Horne",
+        "ultimaConexion": "últ. vez  a las 13:23",
+        "mensajes": [
+            {
+                "author": "Melvin Van Horne",
+                "text": "Amiga, sigue mi consejo, no traten de quitarlo con un hueso.🦴",
+                "estado": "",
+                "day": "",
+                "hour": "13:20",
+                "id": "6",
+                "isState": true
+            },
+            {
+                "author": "Melvin Van Horne",
+                "text": "Eso solo empeora las cosas.",
+                "estado": "",
+                "day": "",
+                "hour": "13:21",
+                "id": "7"
+            }, 
+            {
+                "author": "yo",
+                "text": "😯 Gracias por tu consejo, Melvin. ",
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:22",
+                "id": "8"
+            }, 
+            {
+                "author": "yo",
+                "text": "Definitivamente no lo haremos.👌", 
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:22",
+                "id": "9"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "imagenContacto": "./LionelHutz.jpeg",
+        "chatAuthor": "Dr. Lionel Hutz",
+        "ultimaConexion": "",
+        "mensajes": [
+            {
+                "author": "Dr. Lionel Hutz",
+                "text": "DEJENLO COMO EVIDENCIA!!!",
+                "estado": "",
+                "day": "",
+                "hour": "13:20",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "Dr. Lionel Hutz",
+                "text": "La empresa fabricante tiene mucha tela!!!🤑🤑🤑🤑🤑",
+                "estado": "",
+                "day": "",
+                "hour": "13:20",
+                "id": "2"
+            },
+            {
+                "author": "yo",
+                "text": "No es momento de pensar en litigios Dr Hutz!!. 🤨 ", 
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:23",
+                "id": "3"
+            },
+            {
+                "author": "yo",
+                "text": "Gracias. ", 
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:23",
+                "id": "4"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "imagenContacto": "./ÜterZörker.jpeg",
+        "chatAuthor": "Üter Zörker (Compañero de Lisa)",
+        "ultimaConexion": "en linea",
+        "mensajes": [
+            {
+                "author": "Üter Zörker",
+                "text": "Yo puedo ayudarlos",
+                "estado": "",
+                "day": "",
+                "hour": "13:20",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "Üter Zörker",
+                "text": "Mi padre es el director de 'Goma de Mascar Frankfurt'.🍬 ",
+                "estado": "",
+                "day": "",
+                "hour": "13:20",
+                "id": "2"
+            },
+            {
+                "author": "yo",
+                "text": "No creo que necesitemos más chicle, Üter. Gracias. ", 
+                "estado": "./visto.png",
+                "day": "",
+                "hour": "13:24",
+                "id": "3"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "imagenContacto": "./MascotaIsotopos.jpg",
+        "chatAuthor": "Capital City Goofball",
+        "ultimaConexion": " en linea",
+        "mensajes": [
+            {
+                "author": "Capital City Goofball",
+                "text": "🎉📢📢📢📢",
+                "estado": "",
+                "day": "",
+                "hour": "13:25",
+                "id": "1",
+                "isState": true
+            },
+            {
+                "author": "Capital City Goofball",
+                "text": "./GoofBall.mp4",
+                "estado": "",
+                "day": "",
+                "hour": "13:25",
+                "id": "2",
+                "isState": ""
+            }
+        ]
+    }
+]
