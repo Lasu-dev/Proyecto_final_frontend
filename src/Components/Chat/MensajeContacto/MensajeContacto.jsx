@@ -9,7 +9,7 @@ const MensajeContacto = ({ author, day, estado, text, id, hour, isState }) => {
             {isState ? (
                 <div key={id} className='respuesta-estado'>
                     <h6>Ha respondido tu estado</h6>
-                    <img className='img-miestado' src="../../../../public/LisaChicle1.png" alt="" />
+                    <img className='img-miestado' src="/LisaChicle1.png" alt="" />
                     <div className='mensaje-info'>
                         {isImage ? (
                             <div className='gifs-e-imagenes'>
